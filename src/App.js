@@ -33,7 +33,7 @@ function App() {
                       </div>
                     </div>
                     <div>
-                      <a href='' target='_blank' className='p-3 px-5 text-white bg-blue-600 rounded-md cursor-pointer hover:bg-blue-500'>Apply</a>
+                      <a href={job.applyUrl} target='_blank' className='p-3 px-5 text-white bg-blue-600 rounded-md cursor-pointer hover:bg-blue-500'>Apply</a>
                     </div>
                   </div>
                 </div>
