@@ -1,5 +1,126 @@
 export const jobs = [
   {
+    "title": "Senior Flutter Developer",
+    "url": "",
+    "category": "Mobile Developer",
+    "jobType": [
+      "Full-Time",
+      // "Part-Time",
+      // "Contract"
+    ],
+    "jobMode": [
+      "Remote",
+      // "On-site",
+      // "Hybrid"
+    ],
+    "salaryRange": "1M - 1.5M",
+    "location": "",
+    "applyUrl": "https://forms.gle/8gVh75Ajb1ujS7qx8",
+    "description": "",
+    "requirements": [
+      "Flutter",
+      "Dart",
+      "Flutter SDK",
+      "Experience with mobile app development",
+      "Strong experience with Flutter framework",
+      "Experience with Firebase",
+    ],
+  },
+  {
+    "title": "Senior Product Designer",
+    "url": "",
+    "category": " Product Design",
+    "jobType": [
+      // "Full-Time",
+      // "Part-Time",
+      "Contract"
+    ],
+    "jobMode": [
+      // "Remote",
+      // "On-site",
+      "Hybrid"
+    ],
+    "salaryRange": "1M - 1.5M",
+    "location": "",
+    "applyUrl": "https://forms.gle/BiKSKdc194efW4An9",
+    "description": "",
+    "requirements": [
+      "User Experience",
+      "User Interface",
+      "User Experience Design",
+      "Visual Design",
+      "Branding",
+      "Interaction Design",
+    ],
+  },
+  {
+    "title": "Senior Backend Developer [Golang]",
+    "url": "",
+    "category": "Backend Developer",
+    "jobType": [
+      "Full-Time",
+      // "Part-Time",
+      // "Contract"
+    ],
+    "jobMode": [
+      "Remote",
+      // "On-site",
+      // "Hybrid"
+    ],
+    "salaryRange": "1M - 1.5M",
+    "location": "",
+    "applyUrl": "https://forms.gle/2jSa78c28JLL4JVu7",
+    "description": "",
+    "requirements": [
+      "Golang",
+      "Docker",
+      "Kubernetes",
+      "Microservices",
+      "API Gateway",
+      "PostgreSQL",
+      "Redis",
+      "AWS",
+      "GCP",
+      "NoSQL",
+      "Message Queuing",
+      "Event-driven architecture",
+      "Unit testing",
+    ],
+  },
+  {
+    "title": "Senior Frontend Developer ",
+    "url": "",
+    "category": "",
+    "jobType": [
+      "Full-Time",
+      // "Part-Time",
+      // "Contract"
+    ],
+    "jobMode": [
+      "Remote",
+      // "On-site",
+      // "Hybrid"
+    ],
+    "salaryRange": "1M - 1.5M",
+    "location": "",
+    "applyUrl": "https://forms.gle/raHffFiqhAi1vXaj7",
+    "description": "",
+    "requirements": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "CSS/Sass",
+      "HTML/CSS",
+      "TypeScript",
+      "Jest",
+      "Enzyme",
+      "Cypress",
+      "React Testing Library",
+      "Firebase",
+    ],
+  },
+  {
     "title": "Intermediate Frontend Developer",
     "url": "",
     "category": [
@@ -15,7 +136,7 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "450-550k",
+    "salaryRange": "550 - 693k",
     "location": "",
     "applyUrl": "https://forms.gle/QDScjtc2Dw7KzS9A9",
     "description": ``,
@@ -53,7 +174,7 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "450-550k",
+    "salaryRange": "550 - 693k",
     "location": "",
     "applyUrl": "https://forms.gle/oLm2NDoYenRt61bJA",
     "description": "",
@@ -73,7 +194,7 @@ export const jobs = [
     ],
   },
   {
-    "title": "Senior UX Designer",
+    "title": "Intermediate UX Designer",
     "url": "",
     "category": "Product Design",
     "jobType": [
@@ -86,7 +207,7 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "600 - 800k",
+    "salaryRange": "350 - 463k",
     "location": "",
     "applyUrl": "https://forms.gle/843mMrDzGxJWg53q8",
     "description": "",
@@ -116,9 +237,45 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "450 - 550k",
+    "salaryRange": "550 - 693k",
     "location": "",
     "applyUrl": "https://forms.gle/dB7zXVhRmfoRFERn6",
+    "description": "",
+    "requirements": [
+      "React Native",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "CSS/Sass",
+      "HTML/CSS",
+      "TypeScript",
+      "Jest",
+      "Enzyme",
+      "Cypress",
+      "React Testing Library",
+      "Firebase",
+    ],
+  },
+  {
+    "title": "Advance React Native Developer",
+    "url": "",
+    "category": [
+      "Mobile Developer",
+      "Hybrid Mobile Developer"
+    ],
+    "jobType": [
+      // "Full-Time",
+      // "Part-Time",
+      "Contract"
+    ],
+    "jobMode": [
+      // "Remote",
+      // "On-site",
+      "Hybrid"
+    ],
+    "salaryRange": " N693k - N878k",
+    "location": "",
+    "applyUrl": "https://forms.gle/zf1wMKwioV3FTqed6",
     "description": "",
     "requirements": [
       "React Native",
@@ -149,7 +306,7 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "450-550k",
+    "salaryRange": "350 - 463k",
     "location": "",
     "applyUrl": "https://forms.gle/oR54EfFMPCCGm1gV7 ",
     "description": "",
@@ -167,7 +324,7 @@ export const jobs = [
     ],
   },
   {
-    "title": "Intermediate Backend Developer ",
+    "title": "Intermediate Backend Developer [.NET]",
     "url": "",
     "category": "",
     "jobType": [
@@ -180,7 +337,31 @@ export const jobs = [
       // "On-site",
       "Hybrid"
     ],
-    "salaryRange": "450-550k",
+    "salaryRange": " N693k - N878k",
+    "location": "",
+    "applyUrl": "https://forms.gle/u2SXv8Eo5BhhwHZSA",
+    "description": "",
+    "requirements": [
+      "ASP.NET",
+      "SQL Server",
+      "MySQL",
+    ],
+  },
+  {
+    "title": "Intermediate Backend Developer [.NET]",
+    "url": "",
+    "category": "",
+    "jobType": [
+      // "Full-Time",
+      // "Part-Time",
+      "Contract"
+    ],
+    "jobMode": [
+      // "Remote",
+      // "On-site",
+      "Hybrid"
+    ],
+    "salaryRange": "550 - 693k",
     "location": "",
     "applyUrl": "https://forms.gle/dgGmt7kFk2bbAbow9 ",
     "description": "",
@@ -218,39 +399,8 @@ export const jobs = [
       "TypeScript",
     ],
   },
-  {
-    "title": "Senior Frontend Developer ",
-    "url": "",
-    "category": "",
-    "jobType": [
-      "Full-Time",
-      // "Part-Time",
-      // "Contract"
-    ],
-    "jobMode": [
-      "Remote",
-      // "On-site",
-      // "Hybrid"
-    ],
-    "salaryRange": "600-800k",
-    "location": "",
-    "applyUrl": "https://forms.gle/raHffFiqhAi1vXaj7",
-    "description": "",
-    "requirements": [
-      "React",
-      "JavaScript",
-      "Redux",
-      "Node.js",
-      "CSS/Sass",
-      "HTML/CSS",
-      "TypeScript",
-      "Jest",
-      "Enzyme",
-      "Cypress",
-      "React Testing Library",
-      "Firebase",
-    ],
-  },
+
+
   // {
   //   "title": "",
   //   "url": "",
