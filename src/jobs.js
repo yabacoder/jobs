@@ -121,6 +121,44 @@ export const jobs = [
     ],
   },
   {
+    "title": "Advanced Frontend Developer",
+    "url": "",
+    "category": [
+      "Frontend",
+    ],
+    "jobType": [
+      // "Full-Time",
+      // "Part-Time",
+      "Contract"
+    ],
+    "jobMode": [
+      // "Remote",
+      // "On-site",
+      "Hybrid"
+    ],
+    "salaryRange": "₦693 - ₦878k",
+    "location": "",
+    "applyUrl": "https://forms.gle/VwjSY4qUtTt6NB1o8",
+    "description": ``,
+    "requirements": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "CSS/Sass",
+      "HTML/CSS",
+      "TypeScript",
+      "Jest",
+      "Enzyme",
+      "Cypress",
+      "React Testing Library",
+      "Storybook",
+      "Material-UI",
+      "Bootstrap",
+      "Firebase",
+    ],
+  },
+  {
     "title": "Intermediate Frontend Developer",
     "url": "",
     "category": [
@@ -324,7 +362,7 @@ export const jobs = [
     ],
   },
   {
-    "title": "Intermediate Backend Developer [.NET]",
+    "title": "Advanced Backend Developer [.NET]",
     "url": "",
     "category": "",
     "jobType": [
