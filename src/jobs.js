@@ -1,5 +1,35 @@
 export const jobs = [
   {
+    "title": "Senior Backend Developer (NestJS)",
+    "url": "",
+    "category": "Backend Developer",
+    "jobType": [
+      // "Full-Time",
+      // "Part-Time",
+      "Contract"
+    ],
+    "jobMode": [
+      "Remote",
+      // "On-site",
+      // "Hybrid"
+    ],
+    "salaryRange": "500 - 800k",
+    "location": "",
+    "applyUrl": "https://forms.gle/NXQPjHnkKNgshgSo8",
+    "description": "",
+    "requirements": [
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "JavaScript",
+      "MongoDB",
+      "GraphQL",
+      "Experience with backend development",
+      "Strong experience with NestJS framework",
+      "Experience with GraphQL",
+    ],
+  },
+  {
     "title": "Senior Flutter Developer",
     "url": "",
     "category": "Mobile Developer",
